@@ -1,3 +1,7 @@
+.game-info {
+    text-align: center;
+}
+
 .square {
     width: 200px;
     height: 200px;
@@ -10,13 +14,11 @@
     flex-flow: row wrap;
     justify-content: center;
     align-content: center;
-    width: 6 ;
+    width: 100vw ;
 }
 
 .mole {
     background-image: url('mole.jpg');
-     background-size: cover;
-
-
+    background-size: cover;
 }
 
